@@ -1,14 +1,20 @@
 # UI
 
-This template should help get you started developing with Vue 3 in Vite.
+The UI of this task management app is designed for simplicity and ease of use. It provides a clean interface for managing tasks, including options for sorting, filtering, and performing various actions on tasks.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+For an optimal development experience, it is recommended to use the following setup:
+
+- [VSCode](https://code.visualstudio.com/): Visual Studio Code is a lightweight, powerful code editor.
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar): Volar is a language support extension for Vue.js.
+- [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin): Enhances TypeScript support for Vue.
+
+Make sure to disable Vetur when using Volar.
 
 ## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+For customizing the configuration of this Vue 3 project, refer to the [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
